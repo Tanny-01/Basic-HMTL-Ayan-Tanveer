@@ -1,0 +1,1 @@
+I've incountered some issues about photos size as well, some were too big and some were too small, i fixed this by correnting their sizes with css.(margin, min/max px).
